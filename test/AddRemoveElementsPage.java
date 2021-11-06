@@ -9,6 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.vm.SeAutomation.CommonActionFunctions;
 
+/**
+* Add and Remove Page Object Repository
+*/
 public class AddRemoveElementsPage {
 	CommonActionFunctions commonActionFunctions;
 
