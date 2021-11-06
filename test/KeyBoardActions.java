@@ -5,6 +5,9 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
+/**
+*Keyboard Actions
+*/
 public class KeyBoardActions extends LaunchApplication{
 	
 	@Test
